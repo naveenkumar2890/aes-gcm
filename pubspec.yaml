@@ -1,6 +1,5 @@
 name: aes_gcm_plugin
-description: "The AES-GCM Flutter Encryption Plugin provides seamless encryption and decryption functionality for Flutter applications using the AES-GCM (Advanced Encryption Standard - Galois/Counter Mode) algorithm. 
-AES-GCM is a widely used encryption standard known for its security and efficiency."
+description: "The AES-GCM Flutter Encryption Plugin secures Flutter apps using the AES-GCM algorithm, known for its strong security and efficiency."
 version: 0.0.1
 repository: https://github.com/naveenkumar2890/aes-gcm
 
